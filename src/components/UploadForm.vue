@@ -60,6 +60,12 @@
             >
           </div>
         </div>
+
+        <div class="col-12 mb-4">
+          <button class="bg-blue-500 hover:bg-blue-400 text-white font-bold py-2 px-4 rounded w-full">
+            Submit
+          </button>
+        </div>
       </div>
     </div>
   </div>
